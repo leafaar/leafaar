@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Leafar</h1>
-<h3 align="center">I am enthusiastic web3 developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leafaar&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
 
